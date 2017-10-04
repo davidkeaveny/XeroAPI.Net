@@ -1,6 +1,8 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XeroApi", "XeroApi\XeroApi.csproj", "{20A56AFE-3B15-4FA6-A06D-96F20D5A770D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XeroApi.Console", "XeroApi.ConsoleTests\XeroApi.Console.csproj", "{31280DA3-F3EA-49AA-A326-F5ACA2127859}"
@@ -86,5 +88,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A065C7EF-791C-4AB6-B7AC-DB74E4EF1CD7}
 	EndGlobalSection
 EndGlobal
